@@ -1,3 +1,8 @@
-fastapi
+fastapi~=0.95.1
 uvicorn
-python-dotenv
+python-dotenv~=1.0.0
+requests~=2.32.3
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
